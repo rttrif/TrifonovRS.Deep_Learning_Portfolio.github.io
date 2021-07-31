@@ -68,7 +68,7 @@ h.plot(subplots = True, figsize=(20,10), title = 'Global active power per hour')
 plt.show()
 #%%
 # DATA PREPARETION
-# Resampling of data over 30 minutes
+# Resampling of data over 5 minutes
 data_resample = data.resample('30Min').mean()
 data_resample.shape
 
@@ -105,3 +105,21 @@ Experement 4: Various activation functions
 Experement 5: Complex architectures
 '''
 # EXPEREMENT 1: Different number of layers with the same number of neurons
+
+model_1a = tf.keras.Sequential([
+    tf.keras.layers.Dense(128, activation='sigmoid', input_shape=(6,)),
+    tf.keras.layers.Dense(1, activation='linear'),
+])
+
+model_1a.compile(loss='MAE',
+                 optimizer='SGD',
+                 metrics=['MAE'])
+
+model_1a.summary()
+
+history = model_1a.fit(X_train, y_train,
+                       epochs=100,
+                       batch_size=12,
+                       verbose=2,
+                       validation_split=0.1)
+#%%
