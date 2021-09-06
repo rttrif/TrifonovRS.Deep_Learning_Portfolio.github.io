@@ -13,7 +13,7 @@ Development of skills for building and improving neural network models using the
 
 ### Dataset
 
-[Household Electric Power Consumption](https://www.kaggle.com/uciml/electric-power-consumption-data-set#)
+[Household Electric Power Consumption](https://www.kaggle.com/uciml/electric-power-consumption-data-set#) 
 
 **Attribute Information:**
 
