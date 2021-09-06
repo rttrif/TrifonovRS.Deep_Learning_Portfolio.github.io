@@ -23,7 +23,7 @@ Development of skills for building and improving neural network models using the
 
 3.globalactivepower: household global minute-averaged active power (in kilowatt)
 
-4.globalreactivepower: household global minute-averaged reactive power (in kilowatt)
+4.globalreactivepower: household global minute-averaged reactive power (in kilowatt) 
 
 5.voltage: minute-averaged voltage (in volt)
 
