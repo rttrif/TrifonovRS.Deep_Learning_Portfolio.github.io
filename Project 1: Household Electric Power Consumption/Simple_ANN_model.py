@@ -352,7 +352,8 @@ history_1h = model_1h.fit(X_train_norm, y_train,
                           epochs=50,
                           batch_size=128,
                           verbose=2,
-                          validation_split=0.4)
+                          validation_split=0.4,
+                          callbacks=[checkpoint_cb, early_stopping_cb])
 # Learning curves
 learning_curves(history_1h)
 
@@ -400,7 +401,8 @@ history_1i = model_1i.fit(X_train_norm, y_train,
                           epochs=50,
                           batch_size=128,
                           verbose=2,
-                          validation_split=0.4)
+                          validation_split=0.4,
+                          callbacks=[checkpoint_cb, early_stopping_cb])
 # Learning curves
 learning_curves(history_1i)
 
@@ -453,7 +455,8 @@ history_1j = model_1j.fit(X_train_norm, y_train,
                           epochs=50,
                           batch_size=128,
                           verbose=2,
-                          validation_split=0.4)
+                          validation_split=0.4,
+                          callbacks=[checkpoint_cb, early_stopping_cb])
 # Learning curves
 learning_curves(history_1j)
 
@@ -515,7 +518,8 @@ history_1k = model_1k.fit(X_train_norm, y_train,
                           epochs=50,
                           batch_size=128,
                           verbose=2,
-                          validation_split=0.4)
+                          validation_split=0.4,
+                          callbacks=[checkpoint_cb, early_stopping_cb])
 # Learning curves
 learning_curves(history_1k)
 
