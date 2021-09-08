@@ -1,13 +1,17 @@
+## PROJECT 1: Household Electric Power Consumption
+
+> ### TASK: Regression
+
 ### Project goals and objectives
 
 #### Project goal
 
-Development of skills for building and improving neural network models using the sequential and functional Tensorflow API
+Development of skills for building and improving neural network models for **regression** using the sequential and functional Tensorflow API
 
 #### Project objectives
 
 1. Data preparation
-2. Training a basic simple model using the sequential Tensorflow API and improving it using various methods.
+2. Training a basic simple model using the sequential Tensorflow API and improving it.
 3. Training the basic complex model using the Tensorflow functional API and improving it using various methods.
 4. Training an ensemble of several models
 
@@ -34,3 +38,9 @@ Development of skills for building and improving neural network models using the
 8.submetering2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 
 9.submetering3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+
+### RESULTS 
+
+1. 11 Simple ANN models 
+2. 8 Complex ANN models
+3. 1 Ensemble simple and complex model 

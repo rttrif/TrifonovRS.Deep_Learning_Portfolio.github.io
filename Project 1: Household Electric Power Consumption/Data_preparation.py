@@ -9,7 +9,7 @@ PROJECT OBJECTIVES
 1. Data preparation
 2. Training a basic simple model using the sequential Tensorflow API and improving it using various methods.
 3. Training the basic complex model using the Tensorflow functional API and improving it using various methods.
-4. Training an ensemble of several models
+4. Training an ensemble of models
 
 DATASET - Household Electric Power Consumption
 
