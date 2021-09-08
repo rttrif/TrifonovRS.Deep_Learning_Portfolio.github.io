@@ -41,6 +41,8 @@ Development of skills for building and improving neural network models for **reg
 
 ### RESULTS 
 
+---
+
 1. 11 Simple ANN models 
 2. 8 Complex ANN models
 3. 1 Ensemble simple and complex model 
