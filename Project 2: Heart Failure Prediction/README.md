@@ -11,9 +11,9 @@ Development of skills for building and improving neural network models for **bin
 #### Project objectives
 
 1. Data preparation
-2. Training a basic simple model using the sequential Tensorflow API and improving it.
-3. Training the basic complex model using the Tensorflow functional API and improving it using various methods.
-4. Training an ensemble of several models
+2. Training a basic [simple model](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Simple_ANN_model.py) using the sequential Tensorflow API and improving it.
+3. Training the basic [complex model](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Comlex_ANN_model.py) using the Tensorflow functional API and improving it using various methods.
+4. Training an [ensemble](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Enseble_ANN_model.py) of several models
 
 ### Dataset
 
@@ -39,6 +39,6 @@ Development of skills for building and improving neural network models for **bin
 
 ---
 
-1. 9 Simple ANN models 
-2. 6 Complex ANN models
-3. 5 Ensemble simple and complex model 
+1. 9 [Simple ANN models](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Simple_ANN_model.py) 
+2. 6 [Complex ANN models](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Comlex_ANN_model.py)
+3. 5 [Ensemble simple and complex model](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Enseble_ANN_model.py) 
