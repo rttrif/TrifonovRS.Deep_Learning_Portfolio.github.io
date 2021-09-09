@@ -11,9 +11,9 @@ Development of skills for building and improving neural network models for **reg
 #### Project objectives
 
 1. Data preparation
-2. Training a basic simple model using the sequential Tensorflow API and improving it.
-3. Training the basic complex model using the Tensorflow functional API and improving it using various methods.
-4. Training an ensemble of several models
+2. Training a basic [simple model] using the sequential Tensorflow API and improving it.
+3. Training the basic [complex model] using the Tensorflow functional API and improving it using various methods.
+4. Training an [ensemble] of several models
 
 ### Dataset
 
@@ -43,6 +43,6 @@ Development of skills for building and improving neural network models for **reg
 
 ---
 
-1. 11 Simple ANN models 
-2. 8 Complex ANN models
-3. 1 Ensemble simple and complex model 
+1. 11 [Simple ANN models](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%202:%20Heart%20Failure%20Prediction/Simple_ANN_model.py)
+2. 8 [Complex ANN models]()
+3. 1 [Ensemble simple and complex model]()
