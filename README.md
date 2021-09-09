@@ -10,7 +10,13 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ## Classification 
 
 **Binary classification**
+
 [Project 2: Heart Failure Prediction](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%202:%20Heart%20Failure%20Prediction)
+
+**Multiclass classification**
+
+[Project 3: Fashion-MNIST]
+
 
 ## Computer vision 
 
