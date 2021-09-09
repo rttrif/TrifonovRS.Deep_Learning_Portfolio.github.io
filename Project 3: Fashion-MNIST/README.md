@@ -17,4 +17,4 @@ Development of skills for building and improving neural network models for **mul
 ### RESULTS 
 
 ---
-[Sequential fully connected ANN models]()
+[Sequential fully connected ANN models](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%203:%20Fashion-MNIST/Multiclass_classification_ANN.py)
