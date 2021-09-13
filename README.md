@@ -17,7 +17,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 [Project 3: Fashion-MNIST](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%203:%20Fashion-MNIST)
 
 
-## Computer vision 
+## 👁️ Computer vision 
 
 ### Design and training of basic architectures from scratch
 
