@@ -21,7 +21,27 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ### Design and training of basic architectures from scratch
 
-#### Simple architectures
+#### 1. Simple architectures
+
+#### 2. LeNet-5
+
+#### 3. AlexNet
+
+#### 4. VGG-16
+
+#### 5. VGG-19
+
+#### 6. ResNet
+
+#### 7. ResNet-50
+
+#### 8. Inception - V1
+
+#### 9. Inception - V3
+
+#### 10. Xception
+
+#### 11. Inseption - ResNets
 
 
 
