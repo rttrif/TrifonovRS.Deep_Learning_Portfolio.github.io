@@ -2,11 +2,11 @@
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
 
-## Regression 
+## 📈 Regression 
 
 [Project 1: Household Electric Power Consumption](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%201:%20Household%20Electric%20Power%20Consumption)
 
-## Classification 
+## 🧩 Classification 
 
 **Binary classification**
 
