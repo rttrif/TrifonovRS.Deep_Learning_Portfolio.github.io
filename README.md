@@ -18,7 +18,6 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 
 ## Computer vision 
-
 ---
 
 
