@@ -44,6 +44,18 @@ This portfolio was created in preparation for certification for the TensorFlow D
 #### 11. Inseption - ResNets
 
 
+### Solving the main problems of computer vision
+
+
+#### 1. Classification 
+
+#### 2. Semantic segmentation
+
+#### 3. Object detection
+
+
+### Transfer Learning
+
 
 ##  Natural language processing
 
