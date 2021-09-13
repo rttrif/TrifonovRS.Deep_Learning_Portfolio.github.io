@@ -19,6 +19,12 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ## Computer vision 
 
+### Design and training of basic architectures from scratch
+
+#### Simple architectures
+
+
+
 ##  Natural language processing
 
 ## Time series, sequences and predictions
