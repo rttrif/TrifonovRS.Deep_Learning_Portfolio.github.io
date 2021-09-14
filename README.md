@@ -21,7 +21,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ### Design and training of basic architectures from scratch
 
-#### 1. Simple architectures CNN
+#### 1. Simple architectures CNN - Tiny VGG
 
 #### 2. LeNet-5
 
