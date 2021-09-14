@@ -23,6 +23,8 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 1. Simple architectures CNN - Tiny VGG
 
+[Project 4: COVID-19 Radiography Database](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%204:%20COVID-19%20Radiography%20Database)
+
 #### 2. LeNet-5
 
 #### 3. AlexNet
