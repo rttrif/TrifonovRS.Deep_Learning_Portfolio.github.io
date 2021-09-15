@@ -1,4 +1,4 @@
-## PROJECT 5: FIRE Dataset
+## PROJECT 4: FIRE Dataset
 
 > ### TASK: Classification
 
@@ -10,8 +10,8 @@ Studying architecture: **LeNet-5**
 
 #### Project objectives
 
-1. Data preparation
-3. Training LeNet-5
+1. Exploratory Data Analysis
+2. Training LeNet-5
 
 ### Dataset
 
