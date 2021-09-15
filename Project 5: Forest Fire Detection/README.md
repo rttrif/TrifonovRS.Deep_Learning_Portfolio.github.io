@@ -1,4 +1,4 @@
-## PROJECT 5: FIRE Dataset
+## PROJECT 5: Forest Fire Detection
 
 > ### TASK: Classification
 
