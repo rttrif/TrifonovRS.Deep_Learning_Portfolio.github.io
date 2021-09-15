@@ -2,11 +2,12 @@
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
 
-## 📈 Regression 
+## 📈 REGRESSION
 
 [Project 1: Household Electric Power Consumption](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%201:%20Household%20Electric%20Power%20Consumption)
 
-## 🧩 Classification 
+## 🧩 CLASSIFICATION
+
 
 **Binary classification**
 
@@ -17,9 +18,12 @@ This portfolio was created in preparation for certification for the TensorFlow D
 [Project 3: Fashion-MNIST](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%203:%20Fashion-MNIST)
 
 
-## 👁️ Computer vision 
+## 👁️ COMPUTER VISION
 
 ### Design and training of basic architectures from scratch
+
+### CLASSIFICATION
+----
 
 #### 1. Simple architectures CNN - Tiny VGG
 
@@ -46,14 +50,10 @@ This portfolio was created in preparation for certification for the TensorFlow D
 #### 11. Inseption - ResNets
 
 
-### Solving the main problems of computer vision
+### SEMANTIC SEGMENTATION
 
 
-#### 1. Classification 
-
-#### 2. Semantic segmentation
-
-#### 3. Object detection
+### OBJECT DETECTION
 
 
 ### Transfer Learning
