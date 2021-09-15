@@ -39,6 +39,3 @@ COVID data are collected from different publicly accessible dataset, online sour
 **Viral Pneumonia images:**
 - 1345 Viral Pneumonia data are collected from the Chest X-Ray Images (pneumonia) database [9]
 
-### RESULTS 
-
----
