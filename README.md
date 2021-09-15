@@ -22,6 +22,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ### Design and training of basic architectures from scratch
 
+
 ### CLASSIFICATION
 ----
 
@@ -51,10 +52,10 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 
 ### SEMANTIC SEGMENTATION
-
+----
 
 ### OBJECT DETECTION
-
+----
 
 ### Transfer Learning
 
