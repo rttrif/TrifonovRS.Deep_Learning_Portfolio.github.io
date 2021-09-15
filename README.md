@@ -26,7 +26,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2. LeNet-5: [Project 5: Forest Fire Detection](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%205:%20Forest%20Fire%20Detection)
 
-#### 3. AlexNet: [Project 6: Vehicle Classification]()
+#### 3. AlexNet: [Project 6: Vehicle Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%206:%20Vehicle%20Classification)
 
 #### 4. VGG-16
 
