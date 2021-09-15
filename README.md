@@ -20,7 +20,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ## 👁️ COMPUTER VISION
 
-### Design and training of basic architectures from scratch
+### 🧬 Design and training of basic architectures from scratch
 
 
 ### CLASSIFICATION
