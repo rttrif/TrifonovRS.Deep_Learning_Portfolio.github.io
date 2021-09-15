@@ -25,6 +25,6 @@ Data is divided into 2 folders, fireimages folder contains 755 outdoor-fire imag
 
 Hint: Data is skewed, which means the 2 classes(folders) doesn't have an equal number of samples, so make sure that you have a validation set with an equally-sized number of images per class (eg: 40 images of both fire and non-fire classes).
 
-### Links
+### References
 1. [Understanding and Implementing LeNet-5 CNN Architecture ](https://towardsdatascience.com/understanding-and-implementing-lenet-5-cnn-architecture-deep-learning-a2d531ebc342)
 2. [Gradient-Based Learning Applied To Document Recognition(Original paper)](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)
