@@ -54,12 +54,43 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### SEMANTIC SEGMENTATION
 ----
 
+#### 1. FCN: Fully Convolutional Network 
+
+#### 2. FastFCN
+
+#### 3. U-Net
+
+#### 4. Gated-SCNN
+
+#### 5. DeepLab
+
+#### 6. Mask R-CNN
+
+#### 7. Atrous Convolution
+
 ### OBJECT DETECTION
 ----
+
+#### 1. R-CNN: Region-based Convolutional Neural Networks 
+
+#### 2. R-FCN: Region-based Fully Convolutional Network
+
+#### 3. SSD: Single Shot Detector
+
+#### 4. SPP-net: Spatial Pyramid Pooling
+
+#### 5. YOLO: You Only Look Once
+
+#### 6. Fast R-CNN
+
+#### 7. Faster R-CNN
+
+#### 8. Mask R-CNN
+
 
 ### Transfer Learning
 
 
-##  Natural language processing
+##  NATURAL LANGUAGE PROCESSING
 
 ## Time series, sequences and predictions
