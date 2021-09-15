@@ -32,6 +32,8 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2. LeNet-5
 
+[Project 5: FIRE Dataset](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%205:%20FIRE%20Dataset)
+
 #### 3. AlexNet
 
 #### 4. VGG-16
