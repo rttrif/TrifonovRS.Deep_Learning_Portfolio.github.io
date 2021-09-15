@@ -240,19 +240,19 @@ for data_batch, label_batch in test_images:
 
 def LeNet_5(epochs):
     model = Sequential([
-        # C1
+        # C1 - Convolutions
         Conv2D(filters=6, kernel_size=5, strides=1, activation='tanh', input_shape=(256, 256, 3), padding='same'),
-        # S2
+        # S2 - Subsampling
         AveragePooling2D(pool_size=(2, 2), strides=(1, 1), padding='valid'),
-        # C3
+        # C3 - Convolutions
         Conv2D(16, kernel_size=(5, 5), strides=(1, 1), activation='relu', padding='valid'),
-        # S4
+        # S4 - Subsampling
         AveragePooling2D(pool_size=(2, 2), strides=(2, 2), padding='valid'),
         # Flatten
         Flatten(),
-        # C5
+        # C5 - Full connection
         Dense(120, activation='tanh'),
-        # F6
+        # F6 - Full connection
         Dense(84, activation='tanh'),
         # Output layer
         Dense(2, activation="softmax")
