@@ -255,11 +255,11 @@ def LeNet_5(epochs):
         # F6
         Dense(84, activation='tanh'),
         # Output layer
-        Dense(1, activation='sigmoid')
+        Dense(2, activation="softmax")
     ])
 
     model.compile(optimizer='Adam',
-                  loss='binary_crossentropy',
+                  loss='categorical_crossentropy',
                   metrics=["accuracy"])
 
     model.summary()
@@ -272,7 +272,7 @@ def LeNet_5(epochs):
     return history, model
 
 
-history, model = LeNet_5(epochs=50)
+history, model = LeNet_5(epochs=15)
 
 # Learning curves
 learning_curves(history)
