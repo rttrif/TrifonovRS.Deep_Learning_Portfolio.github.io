@@ -28,7 +28,7 @@ Two labels:
 - 17760 images
 
 
-### Links
+### References
 1. [AlexNet Architecture Explained](https://medium.com/analytics-vidhya/alexnet-architecture-explained-5d19e3dca2bb)
 2. [ImageNet Classification with Deep Convolutional Neural Networks(Original paper)](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 3. [Understanding AlexNet: A Detailed Walkthrough](https://towardsdatascience.com/understanding-alexnet-a-detailed-walkthrough-20cd68a490aa)
