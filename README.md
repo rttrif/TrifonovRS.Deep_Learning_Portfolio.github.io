@@ -28,21 +28,15 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 3. AlexNet: [Project 6: Vehicle Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%206:%20Vehicle%20Classification)
 
-#### 4. VGG-16
+#### 4. VGG-16 (VGG-16 & VGG-19):
 
-#### 5. VGG-19
+#### 5. ResNet (ResNet & ResNet-50):
 
-#### 6. ResNet
+#### 6. Inception (V1, V2, V3)
 
-#### 7. ResNet-50
+#### 7. Xception
 
-#### 8. Inception - V1
-
-#### 9. Inception - V3
-
-#### 10. Xception
-
-#### 11. Inseption - ResNets
+#### 8. Inseption - ResNets
 
 
 ### SEMANTIC SEGMENTATION
