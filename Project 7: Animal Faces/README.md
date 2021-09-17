@@ -32,10 +32,11 @@ There are three domains of classes, each providing about 5000 images. By having 
 
 ### Results
 
-1. The basic model from the original article was created and trained - **AlexNet**
-2. The basic model is improved by applying two regularization strategies: BatchNormalization + Dropout - **AlexNet_IMP**
+1. The basic model from the original article was created and trained - **VGG-16**
+2. The basic model from the original article was created and trained - **VGG-19**
 
 ### References
-1. 
 
-
+1. [Very Deep Convolutional Networks for Large Scale Image Recognition (Original paper)](https://arxiv.org/pdf/1409.1556.pdf)
+2. [VGGNet Architecture Explained](https://medium.com/analytics-vidhya/vggnet-architecture-explained-e5c7318aa5b6)
+3. [VGGNet-16 Architecture: A Complete Guide](https://www.kaggle.com/blurredmachine/vggnet-16-architecture-a-complete-guide)
