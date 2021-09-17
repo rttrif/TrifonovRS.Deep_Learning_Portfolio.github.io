@@ -27,6 +27,10 @@ Two labels:
 - Vehicles
 - 17760 images
 
+### Results
+
+1. The basic model from the original article was created and trained - **AlexNet**
+2. The basic model is improved by applying two regularization strategies: BatchNormalization + Dropout - - **AlexNet_IMP**
 
 ### References
 1. [AlexNet Architecture Explained](https://medium.com/analytics-vidhya/alexnet-architecture-explained-5d19e3dca2bb)
