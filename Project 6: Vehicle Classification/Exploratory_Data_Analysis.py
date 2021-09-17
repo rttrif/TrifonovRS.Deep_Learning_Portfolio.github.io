@@ -49,32 +49,32 @@ print(img_path_series)
 print(img_labels_series)
 
 # Concatenating series to train_data dataframe
-train_data = pd.concat([img_path_series, img_labels_series], axis=1)
+train_df = pd.concat([img_path_series, img_labels_series], axis=1)
 
 # Shuffling
-train_data = train_data.sample(frac=1, random_state=42).reset_index(drop=True)
+train_df = train_df.sample(frac=1, random_state=42).reset_index(drop=True)
 
 # Checking results
-print(train_data.head(-1))
-print(train_data.info())
+print(train_df.head(-1))
+print(train_df.info())
 
 # %%
 # VISUALIZATION: Overview of images
 
 # General
-sns.countplot(train_data["CATEGORY"])
+sns.countplot(train_df["CATEGORY"])
 plt.show()
 
-train_data['CATEGORY'].value_counts().plot.pie(figsize=(5, 5))
+train_df['CATEGORY'].value_counts().plot.pie(figsize=(5, 5))
 plt.show()
 
 # Random example
 figure = plt.figure(figsize=(10, 10))
-ind = np.random.randint(0, train_data["PICTURE"].shape[0])
-x = cv2.imread(train_data["PICTURE"][ind])
+ind = np.random.randint(0, train_df["PICTURE"].shape[0])
+x = cv2.imread(train_df["PICTURE"][ind])
 plt.imshow(x)
 plt.xlabel(x.shape)
-plt.title(train_data["CATEGORY"][ind])
+plt.title(train_df["CATEGORY"][ind])
 plt.show()
 
 # Several  examples
@@ -84,10 +84,10 @@ fig, axes = plt.subplots(nrows=5,
                          subplot_kw={"xticks": [], "yticks": []})
 
 for i, ax in enumerate(axes.flat):
-    x = cv2.imread(train_data["PICTURE"][i])
+    x = cv2.imread(train_df["PICTURE"][i])
     x = cv2.cvtColor(x, cv2.COLOR_RGB2BGR)
     ax.imshow(x)
-    ax.set_title(train_data["CATEGORY"][i])
+    ax.set_title(train_df["CATEGORY"][i])
 plt.tight_layout()
 plt.show()
 
