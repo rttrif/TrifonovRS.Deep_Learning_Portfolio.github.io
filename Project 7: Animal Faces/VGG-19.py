@@ -221,9 +221,9 @@ def model_confusion_matrix(y_true, y_pred, classes=None, figsize=(10, 10), text_
 
 
 # %%
-# MODEL: VGG-16
+# MODEL: VGG-19
 
-def VGG_16(epochs, patience):
+def VGG_19(epochs, patience):
     model = Sequential([
         # CONVOLUTION LAYERS (64, 3×3)
         # Layer C1
@@ -252,17 +252,21 @@ def VGG_16(epochs, patience):
         Conv2D(filters=256, kernel_size=(3, 3), padding="same", activation="relu"),
         # Layer C7
         Conv2D(filters=256, kernel_size=(3, 3), padding="same", activation="relu"),
+        # Layer C8
+        Conv2D(filters=256, kernel_size=(3, 3), padding="same", activation="relu"),
 
         # MAX POOLING LAYER(2×2)
         # Layer S3
         MaxPooling2D((2, 2)),
 
         # CONVOLUTION LAYERS (512, 3×3)
-        # Layer C8
-        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
         # Layer C9
         Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
         # Layer C10
+        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
+        # Layer C11
+        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
+        # Layer C12
         Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
 
         # MAX POOLING LAYER(2×2)
@@ -270,11 +274,13 @@ def VGG_16(epochs, patience):
         MaxPooling2D((2, 2)),
 
         # CONVOLUTION LAYERS (512, 3×3)
-        # Layer C11
-        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
-        # Layer C12
-        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
         # Layer C13
+        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
+        # Layer C14
+        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
+        # Layer C15
+        Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
+        # Layer C16
         Conv2D(filters=512, kernel_size=(3, 3), padding="same", activation="relu"),
 
         # MAX POOLING LAYER(2×2)
@@ -285,13 +291,13 @@ def VGG_16(epochs, patience):
         Flatten(),
 
         # FULLY - CONNECTED LAYER(4096)
-        # Layer F14
+        # Layer F17
         Dense(4096, activation='relu'),
-        # Layer F15:
+        # Layer F18:
         Dense(4096, activation='relu'),
 
         # FULLY - CONNECTED LAYER(1000)
-        # Layer F16
+        # Layer F19
         Dense(3, activation="softmax")
     ])
 
@@ -305,14 +311,14 @@ def VGG_16(epochs, patience):
     early_stopping_cb = tf.keras.callbacks.EarlyStopping(patience=patience,
                                                          restore_best_weights=True)
     history = model.fit(train_images,
-                                  validation_data=valid_images,
-                                  epochs=epochs,
-                                  callbacks=[early_stopping_cb])
+                        validation_data=valid_images,
+                        epochs=epochs,
+                        callbacks=[early_stopping_cb])
 
     return history, model
 
 
-history, model = VGG_16(epochs=5, patience=5)
+history, model = VGG_19(epochs=5, patience=5)
 
 # Learning curves
 learning_curves(history)
@@ -335,7 +341,6 @@ test_df['prediction'] = test_df['prediction'].replace({'1': 1, '0': 0})
 plt.title('Distribution of predicted classes')
 test_df['prediction'].value_counts().plot.pie(figsize=(5, 5))
 plt.show()
-
 
 # Confusion matrix
 model_confusion_matrix(test_df['prediction'], predict)
