@@ -15,6 +15,7 @@ Studying architecture: **ResNet**
 1. Exploratory Data Analysis
 2. Training ResNet-34
 3. Training ResNet-50
+4. Training ResNet-101
 
 ### Dataset
 
@@ -37,6 +38,7 @@ The dataset provides a platform for outdoor weather analysis by extracting vario
 
 1. The basic model from the original article was created and trained - **ResNet-34**
 2. The basic model from the original article was created and trained - **ResNet-50**
+3. The basic model from the original article was created and trained - **ResNet-101**
 
 ### References
 
