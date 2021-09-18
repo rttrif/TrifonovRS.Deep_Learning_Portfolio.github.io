@@ -9,6 +9,7 @@
 Studying architecture: **ResNet**
 1. ResNet
 2. ResNet-50
+3. ResNet-101
 
 #### Project objectives
 
