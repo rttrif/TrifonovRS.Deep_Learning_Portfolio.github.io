@@ -30,7 +30,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 4. VGG-16 (VGG-16 & VGG-19): [Project 7: Animal Faces](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%207:%20Animal%20Faces)
 
-#### 5. ResNet (ResNet & ResNet-50):
+#### 5. ResNet (ResNet & ResNet-50): [Project 8: Weather Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%208:%20Weather%20Classification)
 
 #### 6. Inception (V1, V2, V3)
 
