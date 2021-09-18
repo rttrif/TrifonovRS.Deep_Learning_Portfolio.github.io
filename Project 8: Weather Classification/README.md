@@ -20,7 +20,7 @@ Studying architecture: **ResNet**
 
 ### Dataset
 
-[Multi-class Weather Dataset](hhttps://www.kaggle.com/pratik2901/multiclass-weather-dataset/code)
+[Multi-class Weather Dataset](https://www.kaggle.com/pratik2901/multiclass-weather-dataset)
 
 **DATASET INFORMATION:**
 
