@@ -1,4 +1,4 @@
-## PROJECT 9: Scene Classification
+## PROJECT 9: Brain Hemorrhage 
 
 > ### TASK: Multi-class classification
 
@@ -21,19 +21,11 @@ Studying architecture: **Inception**
 
 ### Dataset
 
-[Scene Classification](https://www.kaggle.com/nitishabharathi/scene-classification)
+[Brain CT Hemorrhage Dataset](https://www.kaggle.com/abdulkader90/brain-ct-hemorrhage-dataset/code)
 
 **DATASET INFORMATION:**
 
-This dataset contains about ~25k images from a wide range of natural scenes from all around the world. The task is to identify which kind of scene can the image be categorized into.
-
-It is a 6 class problem
-- Buildings
-- Forests
-- Mountains
-- Glacier
-- Street
-- Sea
+This dataset contains images of normal and hemorrhagic CT scans collected from the Near East Hospital, Cyprus. When using this dataset kindly cite the following research:
 
 ### Results
 
@@ -49,4 +41,3 @@ It is a 6 class problem
 3. [**Inception V4**: Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning (Original paper)](https://arxiv.org/pdf/1602.07261.pdf)
 4. [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
 5. [Deep Learning in the Trenches: Understanding Inception Network from Scratch](https://www.analyticsvidhya.com/blog/2018/10/understanding-inception-network-from-scratch/)
-
