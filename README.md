@@ -32,7 +32,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 5. ResNet (ResNet & ResNet-50): [Project 8: Weather Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%208:%20Weather%20Classification)
 
-#### 6. Inception (V1, V2, V3) [Project 9: Scene Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%209:%20Scene%20Classification)
+#### 6. Inception (V1, V2, V3) [Project 9: Brain Hemorrhage](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%209:%20Brain%20Hemorrhage)
 
 #### 7. Xception
 
