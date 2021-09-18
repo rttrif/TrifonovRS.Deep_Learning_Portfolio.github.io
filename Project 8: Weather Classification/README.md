@@ -13,7 +13,7 @@ Studying architecture: **ResNet**
 #### Project objectives
 
 1. Exploratory Data Analysis
-2. Training ResNet
+2. Training ResNet-34
 3. Training ResNet-50
 
 ### Dataset
@@ -35,12 +35,12 @@ The dataset provides a platform for outdoor weather analysis by extracting vario
 
 ### Results
 
-1. The basic model from the original article was created and trained - **ResNet**
+1. The basic model from the original article was created and trained - **ResNet-34**
 2. The basic model from the original article was created and trained - **ResNet-50**
 
 ### References
 
-1. []()
-2. []()
-3. []()
-4. []()
+1. [Deep Residual Learning for Image Recognition (Original paper)](https://arxiv.org/pdf/1512.03385v1.pdf)
+2. [Understanding and visualizing ResNets](https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8)
+3. [Detailed Guide to Understand and Implement ResNets](https://cv-tricks.com/keras/understand-implement-resnets/)
+4. [Understanding ResNet and analyzing various models on the CIFAR-10 dataset](https://www.analyticsvidhya.com/blog/2021/06/understanding-resnet-and-analyzing-various-models-on-the-cifar-10-dataset/)
