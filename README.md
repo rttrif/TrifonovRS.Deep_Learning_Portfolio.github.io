@@ -79,8 +79,17 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### TRANSFER LEARNING
 ---
 
+#### 1.
+
+#### 2.
+
 ### OPENCV LIBRARY
 ---
+
+#### 1.
+
+#### 2.
+
 
 
 ##  NATURAL LANGUAGE PROCESSING
