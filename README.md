@@ -76,7 +76,11 @@ This portfolio was created in preparation for certification for the TensorFlow D
 #### 8. Mask R-CNN
 
 
-### Transfer Learning
+### TRANSFER LEARNING
+---
+
+### OPENCV LIBRARY
+---
 
 
 ##  NATURAL LANGUAGE PROCESSING
