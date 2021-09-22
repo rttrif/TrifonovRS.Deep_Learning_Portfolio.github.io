@@ -242,7 +242,7 @@ def model_confusion_matrix(y_true, y_pred, classes=None, figsize=(10, 10), text_
 
 
 # %%
-# MODEL: Inception V1
+# INCEPTION MODULES
 
 # Inception module
 def inception_module(x, filters):
@@ -262,7 +262,7 @@ def inception_module(x, filters):
 
 
 # %%
-# Model Inception V1
+# MODEL INCEPTION V1
 """
 For convolution and max pool:
 TYPE: PATCH SIZE/ STRIDE
