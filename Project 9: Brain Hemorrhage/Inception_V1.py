@@ -7,9 +7,6 @@ PROJECT GOAL
 PROJECT OBJECTIVES
 1. Exploratory Data Analysis
 2. Training Inception V1
-3. Training Inception V2
-4. Training Inception V3
-5. Training Inception V4
 """
 # %%
 # IMPORT LIBRARIES
