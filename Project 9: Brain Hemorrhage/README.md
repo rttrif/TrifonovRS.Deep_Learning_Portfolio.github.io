@@ -29,7 +29,7 @@ This dataset contains images of normal and hemorrhagic CT scans collected from t
 
 ### Results
 
-1.- [x][**Inception V1**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%209:%20Brain%20Hemorrhage/Inception_V1.py)
+1. [x] [**Inception V1**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%209:%20Brain%20Hemorrhage/Inception_V1.py)
 2.[ ][**Inception V2**]()
 3.[ ][**Inception V3**]()
 4.[ ][**Inception V4**]()
