@@ -37,9 +37,9 @@ The dataset provides a platform for outdoor weather analysis by extracting vario
 
 ### Results
 
-1. The basic model from the original article was created and trained - **ResNet-34**
-2. The basic model from the original article was created and trained - **ResNet-50**
-3. The basic model from the original article was created and trained - **ResNet-101**
+1. [x]  [**ResNet-34**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%208:%20Weather%20Classification/ResNet_34.py)
+2. [x] [**ResNet-50**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%208:%20Weather%20Classification/ResNet_50.py)
+3. [x] [**ResNet-101**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%208:%20Weather%20Classification/ResNet_101.py)
 
 ### References
 
