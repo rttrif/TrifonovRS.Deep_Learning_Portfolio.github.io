@@ -36,8 +36,6 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 7. Xception: [Project 10: Brain Tumor Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2010:%20Brain%20Tumor%20Classification)
 
-#### 8. DenseNet
-
 
 ### SEMANTIC SEGMENTATION
 ----
