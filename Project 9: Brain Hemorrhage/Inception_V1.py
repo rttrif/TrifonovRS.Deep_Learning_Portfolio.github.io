@@ -246,18 +246,18 @@ def model_confusion_matrix(y_true, y_pred, classes=None, figsize=(10, 10), text_
 
 # Inception module
 def inception_module(x, filters):
-    t1 = Conv2D(filters=filters[0], kernel_size=1, activation='relu')(x)
+    branch1 = Conv2D(filters=filters[0], kernel_size=1, activation='relu')(x)
 
-    t2 = Conv2D(filters=filters[1], kernel_size=1, activation='relu')(x)
-    t2 = Conv2D(filters=filters[2], kernel_size=3, padding='same', activation='relu')(t2)
+    branch2 = Conv2D(filters=filters[1], kernel_size=1, activation='relu')(x)
+    branch2 = Conv2D(filters=filters[2], kernel_size=3, padding='same', activation='relu')(branch2)
 
-    t3 = Conv2D(filters=filters[3], kernel_size=1, activation='relu')(x)
-    t3 = Conv2D(filters=filters[4], kernel_size=5, padding='same', activation='relu')(t3)
+    branch3 = Conv2D(filters=filters[3], kernel_size=1, activation='relu')(x)
+    branch3 = Conv2D(filters=filters[4], kernel_size=5, padding='same', activation='relu')(branch3)
 
-    t4 = MaxPool2D(pool_size=3, strides=1, padding='same')(x)
-    t4 = Conv2D(filters=filters[2], kernel_size=1, activation='relu')(t4)
+    branch4 = MaxPool2D(pool_size=3, strides=1, padding='same')(x)
+    branch4 = Conv2D(filters=filters[2], kernel_size=1, activation='relu')(branch4)
 
-    output = Concatenate()([t1, t2, t3, t4])
+    output = Concatenate()([branch1, branch2, branch3, branch4])
     return output
 
 
