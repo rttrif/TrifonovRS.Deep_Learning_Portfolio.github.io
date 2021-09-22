@@ -26,7 +26,7 @@ Each folder has more four subfolders. These folders have MRIs of respective tumo
 
 ### Results
 
-1. [ ] [**Xception**]()
+1. [x] [**Xception**]()
 
 ### References
 
