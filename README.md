@@ -34,7 +34,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 6. Inception (V1, V2, V3, V4) [Project 9: Brain Hemorrhage](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%209:%20Brain%20Hemorrhage)
 
-#### 7. Xception
+#### 7. Xception [Project 10: Brain Tumor Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2010:%20Brain%20Tumor%20Classification)
 
 #### 8. Inseption - ResNets
 
