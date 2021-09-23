@@ -34,7 +34,7 @@ Acts as Benchmark dataset for Underwater image segmentation.
 
 1. [x] [**Autoencoder model 1**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2011:%20Underwater%20Segmentation/Autoencoder_model_1.py)
 2. [x] [**Autoencoder model 2**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2011:%20Underwater%20Segmentation/Autoencoder_model_2.py)
-3. [x] [**Autoencoder model 3**]()
+3. [x] [**Autoencoder model 3**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2011:%20Underwater%20Segmentation/Autoencoder_model_3.py)
 
 ### References
 
