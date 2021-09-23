@@ -28,7 +28,7 @@ import itertools
 
 import tensorflow as tf
 from tensorflow.keras.models import Sequential, Model, load_model
-from keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPool2D, BatchNormalization, MaxPooling2D, \
+from tensorflow.keras.layers import Dense, Dropout, Flatten, Conv2D, MaxPool2D, BatchNormalization, MaxPooling2D, \
     BatchNormalization, Permute, TimeDistributed, Bidirectional, GRU, SimpleRNN, LSTM, GlobalAveragePooling2D, \
     SeparableConv2D, ZeroPadding2D, Convolution2D, ZeroPadding2D, Conv2DTranspose, ReLU, \
     UpSampling2D, Concatenate, Conv2DTranspose, Input
@@ -39,6 +39,12 @@ from tensorflow.keras.optimizers import Adam, SGD
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.callbacks import ReduceLROnPlateau, EarlyStopping, ModelCheckpoint
 
+# %%
+print(tf.config.list_physical_devices('GPU'))
+
+config = tf.compat.v1.ConfigProto()
+config.gpu_options.allow_growth = True
+session = tf.compat.v1.Session(config=config)
 # %%
 # PATH & LABEL PROCESS
 
@@ -122,6 +128,17 @@ print("Train: ", transformation_image.shape)
 print("Transformation mask: ", transformation_mask.shape)
 print("Transformation add: ", transformation_add.shape)
 
+
+# %%
+# EVALUATION AND VISUALIZATION OF MODEL PARAMETERS
+
+def learning_curves(history):
+    pd.DataFrame(history.history).plot(figsize=(20, 8))
+    plt.grid(True)
+    plt.title('Learning curves')
+    plt.gca().set_ylim(0, 1)
+    plt.show()
+
 # %%
 # AUTOENCODER MODEL 1
 
@@ -155,7 +172,7 @@ deconv = Conv2DTranspose(filters=64, kernel_size=5, activation='relu')(deconv)
 deconv = Conv2DTranspose(filters=32, kernel_size=5, activation='relu')(deconv)
 
 # Output
-output = Conv2DTranspose(filters=1, kernel_size=5, activation='relu')(deconv)
+output = Conv2DTranspose(filters=3, kernel_size=5, activation='sigmoid')(deconv)
 
 model = Model(inputs=input, outputs=output)
 
@@ -167,9 +184,32 @@ tf.keras.utils.plot_model(model, to_file='Autoencoder_model_1.png')
 
 # %%
 # Train model
+
+
 early_stopping_cb = tf.keras.callbacks.EarlyStopping(patience=5,
                                                      restore_best_weights=True)
 
 history = model.fit(transformation_image, transformation_mask,
-                    epochs=5,
+                    batch_size=2,
+                    epochs=10,
                     callbacks=[early_stopping_cb])
+# %%
+# EVALUATION RESULT
+# Learning curves
+learning_curves(history)
+
+# %%
+# Prediction
+prediction_seen = model.predict(transformation_image[:10])
+
+figure, axis = plt.subplots(1, 2, figsize=(15, 15))
+
+pre_count = 7
+
+axis[0].imshow(transformation_image[pre_count])
+axis[0].set_title("Original")
+axis[1].imshow(prediction_seen[pre_count])
+axis[1].set_title("Prediction")
+
+plt.tight_layout()
+plt.show()
