@@ -40,7 +40,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### SEMANTIC SEGMENTATION
 ----
 
-#### 1. Autoencoder
+#### 1. Autoencoder: [Project 11: Underwater Segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2011:%20Underwater%20Segmentation)
 
 #### 2. FCN: Fully Convolutional Network 
 
