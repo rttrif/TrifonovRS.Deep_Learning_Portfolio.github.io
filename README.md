@@ -40,19 +40,21 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### SEMANTIC SEGMENTATION
 ----
 
-#### 1. FCN: Fully Convolutional Network 
+#### 1. Autoencoder
 
-#### 2. FastFCN
+#### 2. FCN: Fully Convolutional Network 
 
-#### 3. U-Net
+#### 3. FastFCN
 
-#### 4. Gated-SCNN
+#### 4. U-Net
 
-#### 5. DeepLab
+#### 5. Gated-SCNN
 
-#### 6. Mask R-CNN
+#### 6. DeepLab
 
-#### 7. Atrous Convolution
+#### 7. Mask R-CNN
+
+#### 8. Atrous Convolution
 
 ### OBJECT DETECTION
 ----
