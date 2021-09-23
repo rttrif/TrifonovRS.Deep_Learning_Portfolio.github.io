@@ -7,6 +7,8 @@ PROJECT GOAL
 PROJECT OBJECTIVES
 1. Exploratory Data Analysis
 2. Training Autoencoder
+
+MODEL 1
 """
 # %%
 # IMPORT LIBRARIES
