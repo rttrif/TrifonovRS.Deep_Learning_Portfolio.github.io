@@ -32,7 +32,7 @@ Acts as Benchmark dataset for Underwater image segmentation.
 
 ### Results
 
-1. [ ] [**Autoencoder**]()
+1. [x] [**Autoencoder model 1**]()
 
 ### References
 
