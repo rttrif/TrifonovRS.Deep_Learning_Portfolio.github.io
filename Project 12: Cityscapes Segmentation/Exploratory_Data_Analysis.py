@@ -6,10 +6,7 @@ PROJECT GOAL
 > Studying architecture: Fully Convolutional Network(FCN)
 PROJECT OBJECTIVES
 1. Exploratory Data Analysis
-2. Training Training Fully Convolutional Network
-2.1 FCN 8
-2.2 FCN 16
-2.3 FCN 32
+2. Training Training Fully Convolutional Network FCN 8
 
 EXPLORATORY DATA ANALYSIS
 """
