@@ -54,7 +54,6 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 7. Mask R-CNN
 
-#### 8. Atrous Convolution
 
 ### OBJECT DETECTION
 ----
