@@ -44,7 +44,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2. FCN: Fully Convolutional Network: [Project 12: Cityscapes Segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2012:%20Cityscapes%20Segmentation)
 
-#### 3. U-Net
+#### 3. U-Net: [Project 13: People Clothing Segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2013:%20%20People%20Clothing%20Segmentation)
 
 #### 4. DeepLab
 
