@@ -26,8 +26,7 @@ This dataset has 2975 training images files and 500 validation image files. Each
 ### Results
 
 1. [ ] [**FCN 8**]()
-2. [ ] [**FCN 16**]()
-3. [ ] [**FCN 32**]()
+
 
 ### References
 
