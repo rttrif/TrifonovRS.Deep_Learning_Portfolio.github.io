@@ -25,7 +25,7 @@ The dataset contains 1000 images and 1000 corresponding semantic segmentation ma
 
 ### Results
 
-1. [] [**U-Net**]()
+1. [ ] [**U-Net**]()
 
 
 ### References
