@@ -64,12 +64,6 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 5. YOLO: You Only Look Once
 
-#### 6. Fast R-CNN
-
-#### 7. Faster R-CNN
-
-#### 8. Mask R-CNN
-
 
 ### TRANSFER LEARNING
 ---
