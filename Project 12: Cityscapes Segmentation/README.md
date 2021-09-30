@@ -25,7 +25,7 @@ This dataset has 2975 training images files and 500 validation image files. Each
 
 ### Results
 
-1. [ ] [**FCN 8**]()
+1. [x] [**FCN 8**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2012:%20Cityscapes%20Segmentation/FCN_8.py)
 
 
 ### References
