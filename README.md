@@ -44,15 +44,11 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2. FCN: Fully Convolutional Network: [Project 12: Cityscapes Segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2012:%20Cityscapes%20Segmentation)
 
-#### 3. FastFCN
+#### 3. U-Net
 
-#### 4. U-Net
+#### 4. DeepLab
 
-#### 5. Gated-SCNN
-
-#### 6. DeepLab
-
-#### 7. Mask R-CNN
+#### 5. Mask R-CNN
 
 
 ### OBJECT DETECTION
