@@ -46,7 +46,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 3. U-Net: [Project 13: People Clothing Segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2013:%20%20People%20Clothing%20Segmentation)
 
-#### 4. DeepLab
+#### 4. DeepLab: [Project 14: Leaf disease segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2014:%20Leaf%20disease%20segmentation)
 
 #### 5. Mask R-CNN
 
