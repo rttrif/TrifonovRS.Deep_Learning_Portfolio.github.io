@@ -7,7 +7,7 @@
 
 #### Project goal
 
-Studying architecture: **DeepLab**
+Studying architecture: **DeepLab V3+**
 
 
 #### Project objectives
@@ -28,7 +28,7 @@ You can use this dataset to plant leaf disease segmentation from images.
 
 ### Results
 
-1. [ ] [**DeepLab**]()
+1. [ ] [**DeepLab V3+**]()
 
 
 ### References
