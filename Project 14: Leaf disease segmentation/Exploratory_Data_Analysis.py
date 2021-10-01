@@ -6,7 +6,7 @@ PROJECT GOAL
 > Studying architecture: DeepLab
 PROJECT OBJECTIVES
 1. Exploratory Data Analysis
-2. Training DeepLab
+2. Training DeepLab  V3+
 
 EXPLORATORY DATA ANALYSIS
 """
