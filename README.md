@@ -56,13 +56,11 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 1. R-CNN: Region-based Convolutional Neural Networks 
 
-#### 2. R-FCN: Region-based Fully Convolutional Network
+#### 2. SSD: Single Shot Detector
 
-#### 3. SSD: Single Shot Detector
+#### 3. SPP-net: Spatial Pyramid Pooling
 
-#### 4. SPP-net: Spatial Pyramid Pooling
-
-#### 5. YOLO: You Only Look Once
+#### 4. YOLO: You Only Look Once
 
 
 ### TRANSFER LEARNING
