@@ -25,7 +25,7 @@ The dataset contains 1000 images and 1000 corresponding semantic segmentation ma
 
 ### Results
 
-1. [ ] [**U-Net**]()
+1. [x] [**U-Net**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2013:%20%20People%20Clothing%20Segmentation/U_Net.py)
 
 
 ### References
