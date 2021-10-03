@@ -28,7 +28,7 @@ You can use this dataset to plant leaf disease segmentation from images.
 
 ### Results
 
-1. [ ] [**DeepLab V3+**]()
+1. [x] [**DeepLab V3+**]()
 
 
 ### References
