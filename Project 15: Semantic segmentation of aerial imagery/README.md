@@ -38,8 +38,7 @@ The dataset consists of aerial imagery of Dubai obtained by MBRSC satellites and
 
 ### References
 
-1. [Rethinking Atrous Convolution for Semantic Image Segmentation (Original paper)](https://arxiv.org/pdf/1706.05587.pdf)
-2. [PointRend: Image Segmentation as Rendering (Original paper)](https://arxiv.org/pdf/1912.08193.pdf)
-3. [Review: DeepLabv3 — Atrous Convolution (Semantic Segmentation)](https://towardsdatascience.com/review-deeplabv3-atrous-convolution-semantic-segmentation-6d818bfd1d74)
-4. [The Evolution of Deeplab for Semantic Segmentation](https://towardsdatascience.com/the-evolution-of-deeplab-for-semantic-segmentation-95082b025571)
-5. [Review DeepLabv3 (Semantic Segmentation)](https://medium.com/swlh/review-deeplabv3-semantic-segmentation-52c00ddbf28d)
+1. [Building a Mask R-CNN from scratch in TensorFlow and Keras](https://towardsdatascience.com/building-a-mask-r-cnn-from-scratch-in-tensorflow-and-keras-c49c72acc272)
+2. [Mask R-CNN (Original papar)](https://arxiv.org/pdf/1703.06870.pdf)
+3. [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
+4. [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
