@@ -48,7 +48,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 4. DeepLab V3+: [Project 14: Leaf disease segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2014:%20Leaf%20disease%20segmentation)
 
-#### 5. Mask R-CNN: [Project 15: Semantic segmentation of aerial imagery](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2015:%20Semantic%20segmentation%20of%20aerial%20imagery)
+#### 5. Mask R-CNN: [Project 15: Car segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2015:%20Car%20segmentation)
 
 
 ### OBJECT DETECTION
