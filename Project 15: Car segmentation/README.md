@@ -39,6 +39,6 @@ Half of the images were collected from the Internet (especially from unsplash.co
 ### References
 
 1. [Building a Mask R-CNN from scratch in TensorFlow and Keras](https://towardsdatascience.com/building-a-mask-r-cnn-from-scratch-in-tensorflow-and-keras-c49c72acc272)
-2. [Mask R-CNN (Original papar)](https://arxiv.org/pdf/1703.06870.pdf)
+2. [Mask R-CNN (Original paper)](https://arxiv.org/pdf/1703.06870.pdf)
 3. [Splash of Color: Instance Segmentation with Mask R-CNN and TensorFlow](https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46)
 4. [Mask R-CNN for Object Detection and Segmentation](https://github.com/matterport/Mask_RCNN)
