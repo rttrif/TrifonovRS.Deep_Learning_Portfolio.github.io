@@ -15,6 +15,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 #### Multiclass classification: [Project 3: Fashion-MNIST](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%203:%20Fashion-MNIST)
 
 ---
+---
 
 ## 👁️ COMPUTER VISION
 
@@ -79,6 +80,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2.
 
+---
 ---
 
 ##  NATURAL LANGUAGE PROCESSING
