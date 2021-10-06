@@ -69,9 +69,19 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### TRANSFER LEARNING
 ---
 
-#### 1.Feature Extraction
+#### 1.FEATURE EXTRACTION
 
-#### 2.Fine-tuning
+- Image Classification: **RegNetY**
+- Semantic Segmentation:**DeepLab**
+- Object Detection: **CenterNet**
+
+
+
+#### 2.FINE-TUNING
+
+- Image Classification: **EfficientNet V2**
+- Semantic Segmentation:**U-net**
+- Object Detection: **EfficientDet**
 
 ### OPENCV LIBRARY
 ---
