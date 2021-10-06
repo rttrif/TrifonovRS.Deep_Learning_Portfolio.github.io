@@ -1,4 +1,4 @@
-<span style="color: green"> # Deep Learning Portfolio </span>
+# Deep Learning Portfolio
 
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
@@ -14,6 +14,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### Multiclass classification: [Project 3: Fashion-MNIST](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%203:%20Fashion-MNIST)
 
+---
 
 ## 👁️ COMPUTER VISION
 
@@ -67,9 +68,9 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### TRANSFER LEARNING
 ---
 
-#### 1.
+#### 1.Feature Extraction
 
-#### 2.
+#### 2.Fine-tuning
 
 ### OPENCV LIBRARY
 ---
@@ -78,7 +79,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2.
 
-
+---
 
 ##  NATURAL LANGUAGE PROCESSING
 
