@@ -1,4 +1,5 @@
-<font color="green"> # Deep Learning Portfolio </font>
+<font color="green"># Deep Learning Portfolio</font>
+
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
 
