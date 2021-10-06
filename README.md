@@ -95,4 +95,4 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ##  NATURAL LANGUAGE PROCESSING
 
-## Time series, sequences and predictions
+## TIME SERIES, SEQUENCES AND PREDICTIONS
