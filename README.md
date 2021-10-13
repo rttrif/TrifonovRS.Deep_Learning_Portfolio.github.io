@@ -71,7 +71,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 1.FEATURE EXTRACTION
 
-- Image Classification: **RegNetY**
+- Image Classification: **RegNetY** [Project 16: The Food-101 Data Set](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2016:%20The%20Food-101%20Data%20Set)
 - Semantic Segmentation:**DeepLab**
 - Object Detection: **CenterNet**
 
