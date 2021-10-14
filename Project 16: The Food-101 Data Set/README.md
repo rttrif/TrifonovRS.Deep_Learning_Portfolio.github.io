@@ -30,6 +30,8 @@ We introduce a challenging data set of 101 food categories, with 101'000 images.
 
 1. [x] [**Feature extraction model: EfficientNet**]()
 2. [x] [**TensorBoard for feature extraction model**](https://tensorboard.dev/experiment/B0P2g4tkTkSb9j6U3gsEmQ/#scalars)
+3. [x] [**Fine-tuning model: RegNetY 400MF**]()
+4. [x] [**TensorBoard for fine-tuning model**]()
 
 
 ### References
@@ -38,3 +40,4 @@ We introduce a challenging data set of 101 food categories, with 101'000 images.
 2. [Instructions for transfer learning with pre-trained CNNs](https://medium.com/@mikhaillenko/instructions-for-transfer-learning-with-pre-trained-cnns-203ddaefc01)
 3. [Transfer Learning in Tensorflow (VGG19 on CIFAR-10): Part 1](https://towardsdatascience.com/transfer-learning-in-tensorflow-9e4f7eae3bb4)
 4. [Transfer Learning in Tensorflow (VGG19 on CIFAR-10): Part 2](https://towardsdatascience.com/transfer-learning-in-tensorflow-5d2b6ad495cb)
+5. [RegNetY](https://github.com/AdityaKane2001/regnety)
