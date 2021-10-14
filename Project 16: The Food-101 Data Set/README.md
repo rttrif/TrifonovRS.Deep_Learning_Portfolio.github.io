@@ -14,7 +14,8 @@
 
 1. Using TensorFlow Datasets to download and explore data
 2. Building a feature extraction model
-3. Viewing training results on TensorBoard
+3. Building a fine-tuning model
+4. Viewing training results on TensorBoard
 
 ### Dataset
 
