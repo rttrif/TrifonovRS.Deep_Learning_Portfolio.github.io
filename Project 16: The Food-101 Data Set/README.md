@@ -27,7 +27,8 @@ We introduce a challenging data set of 101 food categories, with 101'000 images.
 
 ### Results
 
-1. [ ] [**Feature extraction model**]()
+1. [ ] [**Feature extraction model: EfficientNet**]()
+2. [TensorBoard](https://tensorboard.dev/experiment/B0P2g4tkTkSb9j6U3gsEmQ/#scalars)
 
 
 ### References
