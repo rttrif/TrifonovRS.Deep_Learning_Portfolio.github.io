@@ -87,17 +87,14 @@ This portfolio was created in preparation for certification for the TensorFlow D
 **Fine-tuning:** [**U-net**]()
 
 
+#### OBJECT DETECTION
 
+**[Project 18: ]()**
 
-- Object Detection: **CenterNet**
+**Feature extraction:** [**CenterNet**]()
 
+**Fine-tuning:** [**EfficientDet**]()
 
-
-#### 2.FINE-TUNING
-
-- Image Classification: **EfficientNet V2**
-- Semantic Segmentation:**U-net**
-- Object Detection: **EfficientDet**
 
 ### OPENCV LIBRARY
 ---
