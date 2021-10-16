@@ -28,7 +28,7 @@ We introduce a challenging data set of 101 food categories, with 101'000 images.
 
 ### Results
 
-1. [x] [**Feature extraction model: EfficientNet**]()
+1. [x] [**Feature extraction model: EfficientNet**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2016:%20The%20Food-101%20Data%20Set/EfficientNet_Feature_extraction.py)
 2. [x] [**TensorBoard for feature extraction model**](https://tensorboard.dev/experiment/B0P2g4tkTkSb9j6U3gsEmQ/#scalars)
 3. [x] [**Fine-tuning model: RegNetY 400MF**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2016:%20The%20Food-101%20Data%20Set/RegNetY_Fine_tuning.py)
 4. [x] [**TensorBoard for fine-tuning model**]()
