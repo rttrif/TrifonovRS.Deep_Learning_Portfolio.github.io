@@ -82,7 +82,6 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 **[Project 17: The Oxford-IIIT Pet Dataset](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2017:%20The%20Oxford-IIIT%20Pet%20Dataset/README.md)**
 
-**Feature extraction:** [**DeepLab**]()
 
 **Fine-tuning:** [**U-net**]()
 
