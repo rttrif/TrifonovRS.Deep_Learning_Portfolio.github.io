@@ -7,13 +7,13 @@
 
 #### Project goal
 
-- Studying **feature extraction** transfer learning 
+- Studying **transfer learning**
 - Studying Tensorflow Datasets 
 
 #### Project objectives
 
 1. Using TensorFlow Datasets to download and explore data
-2. Building a feature extraction model
+2. Building a transfer model
 3. Viewing training results on TensorBoard
 
 ### Dataset
@@ -27,10 +27,8 @@ We have created a 37 category pet dataset with roughly 200 images for each class
 
 ### Results
 
-1. [x] [**Feature extraction model: DeepLab**]()
-2. [x] [**TensorBoard for feature extraction model**]()
-3. [x] [**Fine-tuning model: U-net**]()
-4. [x] [**TensorBoard for fine-tuning model**]()
+1. [x] [**Fine-tuning model: U-net**]()
+2. [x] [**TensorBoard for fine-tuning model**]()
 
 
 
