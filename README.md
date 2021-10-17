@@ -88,7 +88,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### OBJECT DETECTION
 
-**[Project 18: ]()**
+**[Project 18: YOLOv3 with Darknet Pre-trained Weights]()**
 
 **Feature extraction:** [**CenterNet**]()
 
