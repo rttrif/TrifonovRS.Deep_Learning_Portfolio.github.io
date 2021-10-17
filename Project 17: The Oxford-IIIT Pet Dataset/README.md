@@ -1,6 +1,6 @@
 ## PROJECT 17: The Oxford-IIIT Pet Dataset
 
-# @titel SOMTHING
+# @title SOMTHING
 
 > ### TASKS: Semantic Segmentation
 
