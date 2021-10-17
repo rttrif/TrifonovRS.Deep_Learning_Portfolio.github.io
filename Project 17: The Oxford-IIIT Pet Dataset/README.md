@@ -1,7 +1,5 @@
 ## PROJECT 17: The Oxford-IIIT Pet Dataset
 
-# @title SOMTHING
-
 > ### TASKS: Semantic Segmentation
 
 ### Project goals and objectives
