@@ -76,7 +76,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 **Feature extraction:** [**EfficientNet**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2016:%20The%20Food-101%20Data%20Set/EfficientNet_Feature_extraction.py)
 
 
-**Fine-tuning:** [**RegNetY**]()
+**Fine-tuning:** [**RegNetY**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2016:%20The%20Food-101%20Data%20Set/RegNetY_Fine_tuning.py)
 
 #### SEMANTIC SEGMENTATION
 
