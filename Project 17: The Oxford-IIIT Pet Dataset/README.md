@@ -27,7 +27,7 @@ We have created a 37 category pet dataset with roughly 200 images for each class
 
 ### Results
 
-1. [x] [**Fine-tuning model: U-net**]()
+1. [x] [**Fine-tuning model: U-net**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2017:%20The%20Oxford-IIIT%20Pet%20Dataset/U_net_Transfer_learning.py)
 2. [x] [**TensorBoard for fine-tuning model**](https://tensorboard.dev/experiment/M9poPTZ8SO6QOHZyLZsxlQ/#scalars)
 
 
