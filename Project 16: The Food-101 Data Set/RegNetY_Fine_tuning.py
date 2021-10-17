@@ -160,7 +160,7 @@ def evaluation_model(history):
     plt.show()
 
 # %%
-# FEATURE EXTRACTION MODEL
+# FINE-TUNING MODEL
 
 # Base model
 input_shape = (128, 128, 3)
