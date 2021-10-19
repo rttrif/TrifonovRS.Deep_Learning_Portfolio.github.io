@@ -90,7 +90,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 **[Project 18: YOLOv3 with Darknet Pre-trained Weights](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights)**
 
-**Fine-tuning:** [**Yolo v3**]()
+**Pre-trained:** [**Yolo v3**]()
 
 
 ### OPENCV LIBRARY
@@ -104,5 +104,19 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ---
 
 ##  NATURAL LANGUAGE PROCESSING
+
+#### 1. Naive Bayes with TF-IDF encoder
+
+#### 2. Feed-forward neural network
+
+#### 3. Long short-term memory: LSTM 
+
+#### 4. Gated recurrent unit: GRU
+
+#### 5. Bidirectional-LSTM 
+
+#### 6. 1D Convolutional Neural Network
+
+#### 7. Transfer Learning
 
 ## TIME SERIES, SEQUENCES AND PREDICTIONS
