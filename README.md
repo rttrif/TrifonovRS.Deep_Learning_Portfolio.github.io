@@ -105,7 +105,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ##  NATURAL LANGUAGE PROCESSING
 
-#### 1. Naive Bayes with TF-IDF encoder
+#### 1. Naive Bayes with TF-IDF encoder: [Project 19: NLP with Disaster Tweets](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2019:%20NLP%20with%20Disaster%20Tweets)
 
 #### 2. Feed-forward neural network
 
