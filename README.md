@@ -119,4 +119,27 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 7. Transfer Learning
 
+---
+---
+
 ## TIME SERIES, SEQUENCES AND PREDICTIONS
+
+#### 1. Naive model 
+
+#### 2. Dense neural network
+
+#### 3. 1D Convolutional Neural Network
+
+#### 4. Long short-term memory: LSTM 
+
+#### 5. N-BEATS: Neural basis expansion analysis
+
+#### 6. Ensemble
+
+---
+---
+
+
+
+#### 7. Transfer Learning
+
