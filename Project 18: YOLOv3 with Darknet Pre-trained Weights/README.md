@@ -13,14 +13,6 @@
 1. Using pre-trained weights by Darknet
 2. Building a transfer model YOLOv3
 
-### Dataset
-
-[Data for Yolo v3 kernel](https://www.robots.ox.ac.uk/~vgg/data/pets/)
-
-**DATASET INFORMATION:**
-
-Contains sample images, fonts, class names and weights.
-
 
 ### Results
 
