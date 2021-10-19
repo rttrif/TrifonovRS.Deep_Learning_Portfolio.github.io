@@ -16,7 +16,7 @@
 
 ### Results
 
-1. [x] [**Fine-tuning model: Yolo v3**]()
+1. [x] [**Pre-trained: Yolo v3**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights/Yolo_v3_FT.py)
 
 
 ### References
