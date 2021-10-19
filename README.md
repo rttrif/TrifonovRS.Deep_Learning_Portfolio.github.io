@@ -138,8 +138,3 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ---
 ---
-
-
-
-#### 7. Transfer Learning
-
