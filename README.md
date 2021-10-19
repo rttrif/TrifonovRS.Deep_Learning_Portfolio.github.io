@@ -88,11 +88,9 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### OBJECT DETECTION
 
-**[Project 18: YOLOv3 with Darknet Pre-trained Weights]()**
+**[Project 18: YOLOv3 with Darknet Pre-trained Weights](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights)**
 
-**Feature extraction:** [**CenterNet**]()
-
-**Fine-tuning:** [**EfficientDet**]()
+**Fine-tuning:** [**Yolo v3**]()
 
 
 ### OPENCV LIBRARY
