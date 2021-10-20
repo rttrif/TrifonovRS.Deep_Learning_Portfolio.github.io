@@ -13,7 +13,7 @@
 #### Project objectives
 
 1. Exploratory Data Analysis
-2. Training ultinomial Naive Bayes
+2. Training multinomial Naive Bayes
 3. Predict which Tweets are about real disasters and which ones are not
 
 
