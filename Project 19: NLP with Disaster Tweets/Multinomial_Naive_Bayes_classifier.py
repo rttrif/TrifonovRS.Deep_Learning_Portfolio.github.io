@@ -51,7 +51,7 @@ print(f"Total test samples: {len(test_df)}")
 print(f"Total samples: {len(train_df) + len(test_df)}")
 # %%
 # Random training examples
-random_index = random.randint(0, len(train_df) - 5)  # create random indexes not higher than the total number of samples
+random_index = random.randint(0, len(train_df) - 5)  
 for row in train_df_shuffled[["text", "target"]][random_index:random_index + 5].itertuples():
     _, text, target = row
     print(f"Target: {target}", "(real disaster)" if target > 0 else "(not real disaster)")
