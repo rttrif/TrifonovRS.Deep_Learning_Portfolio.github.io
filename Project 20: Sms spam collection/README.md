@@ -1,6 +1,6 @@
-## PROJECT 20: Natural Language Processing with Disaster Tweets
+## PROJECT 20: Sms spam collection
 
-> ### TASK: Natural Language Processing
+> ### TASK: Natural Language Processing to predict a SMS is spam or not spam
 
 ### Project goals and objectives
 
