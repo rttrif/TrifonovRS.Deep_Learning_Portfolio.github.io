@@ -107,7 +107,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 1. Naive Bayes classifier with TF-IDF encoder: [Project 19: NLP with Disaster Tweets](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2019:%20NLP%20with%20Disaster%20Tweets)
 
-#### 2. Feed-forward neural network
+#### 2. Feed-forward neural network: [Project 20: Sms spam collection](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2020:%20Sms%20spam%20collection)
 
 #### 3. Long short-term memory: LSTM 
 
