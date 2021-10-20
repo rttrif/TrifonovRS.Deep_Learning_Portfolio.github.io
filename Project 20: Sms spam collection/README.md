@@ -30,10 +30,10 @@ Base on the text on SMS message, we should predict it is spam or not spam.
 
 ### Results
 
-1. [x] [**Dense model 1**]()
-2. [x] [**Dense model 2**]()
-3. [x] [**Dense model 2**]()
-4. [x] [**Multinomial Naive Bayes classifier**]()
+1. [x] [**Dense model 1**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2020:%20Sms%20spam%20collection/Dense_models.py)
+2. [x] [**Dense model 2**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2020:%20Sms%20spam%20collection/Dense_models.py)
+3. [x] [**Dense model 2**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2020:%20Sms%20spam%20collection/Dense_models.py)
+4. [x] [**Multinomial Naive Bayes classifier**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2020:%20Sms%20spam%20collection/Dense_models.py)
 
 
 
