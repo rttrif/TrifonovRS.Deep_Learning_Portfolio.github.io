@@ -37,7 +37,7 @@
 
 ### Results
 
-1. [x] [**Multinomial Naive Bayes**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2019:%20NLP%20with%20Disaster%20Tweets/Multinomial_Naive_Bayes_classifier.py)
+1. [x] [**Multinomial Naive Bayes classifier**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2019:%20NLP%20with%20Disaster%20Tweets/Multinomial_Naive_Bayes_classifier.py)
 
 
 ### References
