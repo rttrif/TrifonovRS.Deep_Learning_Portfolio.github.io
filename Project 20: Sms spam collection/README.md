@@ -30,9 +30,9 @@ Base on the text on SMS message, we should predict it is spam or not spam.
 
 ### Results
 
-1. [x] [**Dense models 1**]()
-2. [x] [**Dense models 2**]()
-3. [x] [**Dense models 2**]()
+1. [x] [**Dense model 1**]()
+2. [x] [**Dense model 2**]()
+3. [x] [**Dense model 2**]()
 4. [x] [**Multinomial Naive Bayes classifier**]()
 
 
