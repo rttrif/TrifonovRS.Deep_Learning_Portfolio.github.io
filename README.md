@@ -1,6 +1,10 @@
 # Deep Learning Portfolio
 
 This portfolio was created in preparation for certification for the TensorFlow Developer
+---
+## 👨‍🎓 MY CERTIFICATES
+
+- [DeepLearning.AI TensorFlow Developer](https://coursera.org/share/2b0961ad6c882bcf74c2e62a0b604e86)
 
 
 ## 📈 REGRESSION
