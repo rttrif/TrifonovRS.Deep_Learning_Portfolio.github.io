@@ -69,20 +69,20 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ### TRANSFER LEARNING
 ---
 
-#### Image classification: **[Project 16: The Food-101 Data Set](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2016:%20The%20Food-101%20Data%20Set)**
+#### 1. Image classification: **[Project 16: The Food-101 Data Set](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2016:%20The%20Food-101%20Data%20Set)**
 
 - **Feature extraction:** [**EfficientNet**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2016:%20The%20Food-101%20Data%20Set/EfficientNet_Feature_extraction.py)
 
 
 - **Fine-tuning:** [**RegNetY**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2016:%20The%20Food-101%20Data%20Set/RegNetY_Fine_tuning.py)
 
-#### Semantic segmentation: **[Project 17: The Oxford-IIIT Pet Dataset](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2017:%20The%20Oxford-IIIT%20Pet%20Dataset/README.md)**
+#### 2. Semantic segmentation: **[Project 17: The Oxford-IIIT Pet Dataset](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2017:%20The%20Oxford-IIIT%20Pet%20Dataset/README.md)**
 
 
 - **Fine-tuning:** [**U-net**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2017:%20The%20Oxford-IIIT%20Pet%20Dataset/U_net_Transfer_learning.py)
 
 
-#### Object detection: **[Project 18: YOLOv3 with Darknet Pre-trained Weights](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights)**
+#### 3. Object detection: **[Project 18: YOLOv3 with Darknet Pre-trained Weights](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights)**
 
 - **Pre-trained:** [**Yolo v3**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights/Yolo_v3_FT.py)
 
