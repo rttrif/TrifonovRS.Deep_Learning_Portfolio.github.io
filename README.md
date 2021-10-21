@@ -111,6 +111,8 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 3. Recurrent neural network: [Project 21: Tweets Sentiment Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2021:%20Tweets%20Sentiment%20Classification)
 
+- [**Recurrent neural network: RNN**]()
+
 - [**Long short-term memory: LSTM**]()
 
 - [**Gated recurrent unit: GRU**]()
