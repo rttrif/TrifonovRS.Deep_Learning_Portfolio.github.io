@@ -109,15 +109,17 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2. Feed-forward neural network: [Project 20: Sms spam collection](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2020:%20Sms%20spam%20collection)
 
-#### 3. Long short-term memory: LSTM 
+#### 3. Recurrent neural network
 
-#### 4. Gated recurrent unit: GRU
+- [ ] [Long short-term memory: LSTM]()
 
-#### 5. Bidirectional-LSTM 
+- [ ] [Gated recurrent unit: GRU]()
 
-#### 6. 1D Convolutional Neural Network
+- [ ] [Bidirectional-LSTM]()
 
-#### 7. Transfer Learning
+#### 4. 1D Convolutional Neural Network
+
+#### 5. Transfer Learning
 
 ---
 ---
