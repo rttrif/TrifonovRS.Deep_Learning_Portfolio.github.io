@@ -35,10 +35,10 @@ Sentiment analysis remains one of the key problems that has seen extensive appli
 
 ### Results
 
-1. [ ] [**RNN model**]()
-2. [ ] [**LSTM model**]()
-3. [ ] [**GRU model**]()
-4. [ ] [**Bidirectional-LSTM**]()
+1. [x] [**RNN model**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/RNN_model.py)
+2. [x] [**LSTM model**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/LSTM_model.py)
+3. [x] [**GRU model**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/GRU_model.py)
+4. [x] [**Bidirectional-LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/Bidirectional_LSTM_model.py)
 
 ### References
 
