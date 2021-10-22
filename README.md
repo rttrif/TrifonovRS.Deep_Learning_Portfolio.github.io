@@ -118,13 +118,13 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 3. Recurrent neural network: [Project 21: Tweets Sentiment Classification](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2021:%20Tweets%20Sentiment%20Classification)
 
-- [**Recurrent neural network: RNN**]()
+- [**Recurrent neural network: RNN**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/RNN_model.py)
 
-- [**Long short-term memory: LSTM**]()
+- [**Long short-term memory: LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/LSTM_model.py)
 
-- [**Gated recurrent unit: GRU**]()
+- [**Gated recurrent unit: GRU**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/GRU_model.py)
 
-- [**Bidirectional-LSTM**]()
+- [**Bidirectional-LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/Bidirectional_LSTM_model.py)
 
 #### 4. 1D Convolutional Neural Network
 
