@@ -102,7 +102,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ### OPENCV LIBRARY
 ---
-![image Hands-On Computer Vision with OpenCV 4, Keras & TensorFlow 2](https://udemy-certificate.s3.amazonaws.com/image/UC-92ac279f-b340-4fae-a8a4-092464ce0b11.jpg)
+![image Hands-On Computer Vision with OpenCV 4, Keras & TensorFlow 2](https://udemy-certificate.s3.amazonaws.com/image/UC-92ac279f-b340-4fae-a8a4-092464ce0b11.jpg =250x)
 
 #### 1.
 
