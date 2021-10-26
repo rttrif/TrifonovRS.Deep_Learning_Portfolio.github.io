@@ -134,7 +134,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 4. 1D Convolutional Neural Network [Project 22: What's Cooking?]()
 
-#### 5. Transfer Learning [Project 23: Toxic Comment Classification Challenge]()
+#### 5. Transfer Learning [Project 23: Toxic Comment Classification]()
 
 #### 6. [Project 24: SkimLit]()
 
