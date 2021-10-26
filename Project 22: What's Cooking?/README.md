@@ -27,9 +27,9 @@ In the dataset, we include the recipe id, the type of cuisine, and the list of i
 
 
 ##### Content
-- 'train.json' - the training set containing recipes id, type of cuisine, and list of ingredients
-- 'test.json' - the test set containing recipes id, and list of ingredients
-- 'sample_submission.csv' - a sample submission file in the correct format
+- `train.json` - the training set containing recipes id, type of cuisine, and list of ingredients
+- `test.json` - the test set containing recipes id, and list of ingredients
+- `sample_submission.csv` - a sample submission file in the correct format
 
 ### Results
 
