@@ -7,10 +7,10 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 - [[Udemy] Hands-On Computer Vision with OpenCV 4, Keras & TensorFlow 2](https://udemy-certificate.s3.amazonaws.com/image/UC-92ac279f-b340-4fae-a8a4-092464ce0b11.jpg)
 - [[Coursera] DeepLearning.AI TensorFlow Developer](https://coursera.org/share/2b0961ad6c882bcf74c2e62a0b604e86)
-- [[GeegBrains] Introduction to Neural Networks](https://gb.ru/certificates/1300743.en)
-- [[GeegBrains] Deep learning in computer vision](https://gb.ru/certificates/1409859.en)
-- [[GeegBrains] Introduction to natural language processing](https://gb.ru/certificates/1370150.en)
-- [[GeegBrains] Convolutional neural network, CNN](https://gb.ru/certificates/664837.en)
+- [[GeekBrains] Introduction to Neural Networks](https://gb.ru/certificates/1300743.en)
+- [[GeekBrains] Deep learning in computer vision](https://gb.ru/certificates/1409859.en)
+- [[GeekBrains] Introduction to natural language processing](https://gb.ru/certificates/1370150.en)
+- [[GeekBrains] Convolutional neural network, CNN](https://gb.ru/certificates/664837.en)
 
 
 ---
