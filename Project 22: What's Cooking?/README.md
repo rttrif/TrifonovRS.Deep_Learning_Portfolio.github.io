@@ -33,7 +33,7 @@ In the dataset, we include the recipe id, the type of cuisine, and the list of i
 
 ### Results
 
-1. [x] [**CNN models for text**]()
+1. [x] [**CNN models for text**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2022:%20What's%20Cooking%3F/CNN_model.ipynb)
 
 
 ### References
