@@ -132,9 +132,11 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 - [**Bidirectional-LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2021:%20Tweets%20Sentiment%20Classification/Bidirectional_LSTM_model.py)
 
-#### 4. 1D Convolutional Neural Network
+#### 4. 1D Convolutional Neural Network [Project 22: What's Cooking?]()
 
-#### 5. Transfer Learning
+#### 5. Transfer Learning [Project 23: Toxic Comment Classification Challenge]()
+
+#### 6. [Project 24: SkimLit]()
 
 ---
 ---
