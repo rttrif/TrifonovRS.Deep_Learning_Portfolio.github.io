@@ -1,4 +1,4 @@
-## PROJECT 22: Toxic Comment Classification
+## PROJECT 23: Toxic Comment Classification
 
 > ### TASK: Identify and classify toxic online comments
 
