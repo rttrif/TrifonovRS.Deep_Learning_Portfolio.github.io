@@ -41,7 +41,7 @@ You must create a model which predicts a probability of each type of toxicity fo
 
 ### Results
 
-1. [x] [**Universal Sentence Encoder**]()
+1. [x] [**Universal Sentence Encoder**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2023:%20Toxic%20Comment%20Classification/Universal_Sentence_Encoder_TL.ipynb)
 
 
 ### References
