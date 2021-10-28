@@ -112,9 +112,24 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 
 
-#### 1.
+#### 1. [Project 25: Gesture Recognition]()
 
-#### 2.
+#### 2. [Project 26: Facial Recognition with VGGFace]()
+
+#### 3. [Project 27: Use Pre-Trained Models]()
+
+- [**VGG16**]
+
+- [**ResNet50**]
+
+- [**Inception V3**]
+
+#### 4. [Project 28: Transfer Learning with CIFAR10]()
+
+#### 5. [Project 29: SSD Object Detection OpenCV]()
+
+#### 6. [Project 30: Neural Style Transfers with different Artistic Styles]()
+
 
 ---
 ---
