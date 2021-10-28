@@ -118,11 +118,11 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 3. [Project 27: Use Pre-Trained Models]()
 
-- [**VGG16**]
+- [**VGG16**]()
 
-- [**ResNet50**]
+- [**ResNet50**]()
 
-- [**Inception V3**]
+- [**Inception V3**]()
 
 #### 4. [Project 28: Transfer Learning with CIFAR10]()
 
