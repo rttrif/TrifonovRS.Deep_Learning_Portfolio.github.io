@@ -26,7 +26,7 @@ PubMed 200k RCT is new dataset based on PubMed for sequential sentence classific
 
 ### Results
 
-1. [ ] [**TF-IDF classifier**]()
+1. [ ] [**TF-IDF classifier**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_TF_IDF_classifier.ipynb)
 2. [ ] [**Conv1D with token embeddings**]()
 3. [ ] [**Feature extraction with pretrained token embeddings**]()
 4. [ ] [**Conv1D with character embeddings**]()
