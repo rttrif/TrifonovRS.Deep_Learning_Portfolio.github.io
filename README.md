@@ -161,7 +161,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ## TIME SERIES, SEQUENCES AND PREDICTIONS
 
-#### 1. Naive model 
+#### 1. Simple forecasting method
 
 #### 2. Dense neural network
 
