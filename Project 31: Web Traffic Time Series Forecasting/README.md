@@ -19,7 +19,7 @@
 
 ### Dataset
 
-[Web Traffic Time Series Forecasting](https://www.kaggle.com/ymlai87416/wiktraffictimeseriesforecast)
+[Web Traffic Time Series Forecasting](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data)
 
 **DATASET INFORMATION:**
 
