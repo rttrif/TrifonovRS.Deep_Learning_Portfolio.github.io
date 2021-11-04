@@ -163,7 +163,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 1. Naïve forecasting method: [Project 31: Web Traffic Time Series Forecasting](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting)
 
-#### 2. Dense neural network
+#### 2. Dense neural network: [Project 32: Population Time Series Data](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2032:%20Population%20Time%20Series%20Data)
 
 #### 3. 1D Convolutional Neural Network
 
