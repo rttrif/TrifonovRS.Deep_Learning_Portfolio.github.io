@@ -43,10 +43,10 @@ Files used for the first stage will end in '1'. Files used for the second stage 
 
 ### Results
 
-1. [ ] [**Mean method**]()
-2. [ ] [**Naïve method**]()
-3. [ ] [**Seasonal naïve method**]()
-4. [ ] [**Drift method**]()
+1. [x] [**Mean method**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting/Naive_methods.ipynb)
+2. [x] [**Naïve method**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting/Naive_methods.ipynb)
+3. [x] [**Seasonal naïve method**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting/Naive_methods.ipynb)
+4. [x] [**Drift method**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting/Naive_methods.ipynb)
 
 ### References
 
