@@ -161,7 +161,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 ## TIME SERIES, SEQUENCES AND PREDICTIONS
 
-#### 1. Simple forecasting method: [Project 31: Web Traffic Time Series Forecasting](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting)
+#### 1. Naïve forecasting method: [Project 31: Web Traffic Time Series Forecasting](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2031:%20Web%20Traffic%20Time%20Series%20Forecasting)
 
 #### 2. Dense neural network
 
