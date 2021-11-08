@@ -8,6 +8,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 [**[GeekBrains] Certificate of professional retraining under the program 
 "Geek University Faculty of Artificial Intelligence"**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Certificates/Trifonov%20Ruslan.pdf)
 
+- [[Udemy] TensorFlow Developer Certificate in 2021: Zero to Mastery](https://www.udemy.com/certificate/UC-3939d83f-a91e-43a9-800a-b6d650fd9c7a/)
 - [[Udemy] Hands-On Computer Vision with OpenCV 4, Keras & TensorFlow 2](https://udemy-certificate.s3.amazonaws.com/image/UC-92ac279f-b340-4fae-a8a4-092464ce0b11.jpg)
 - [[Coursera] DeepLearning.AI TensorFlow Developer](https://coursera.org/share/2b0961ad6c882bcf74c2e62a0b604e86)
 - [[GeekBrains] Introduction to Neural Networks](https://gb.ru/certificates/1300743.en)
