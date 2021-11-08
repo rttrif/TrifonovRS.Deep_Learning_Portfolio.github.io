@@ -12,7 +12,7 @@
 #### Project objectives
 
 1. Explore and prepare data 
-2. Building several dense models
+2. Building dense model
 
 ### Dataset
 
@@ -26,7 +26,7 @@ This is a dataset from the U.S. Census Bureau hosted by the Federal Reserve Econ
 
 ### Results
 
-1. [ ] [**Dense models**]()
+1. [ ] [**Dense model**]()
 
 
 ### References
