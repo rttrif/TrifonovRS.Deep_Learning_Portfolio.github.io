@@ -26,7 +26,7 @@ This is a dataset from the U.S. Census Bureau hosted by the Federal Reserve Econ
 
 ### Results
 
-1. [ ] [**Dense model**]()
+1. [x] [**Dense model**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2032:%20Population%20Time%20Series%20Data/DNN_for_TSF.ipynb)
 
 
 ### References
