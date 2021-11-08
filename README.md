@@ -172,7 +172,5 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 5. N-BEATS: Neural basis expansion analysis
 
-#### 6. Ensemble
-
 ---
 ---
