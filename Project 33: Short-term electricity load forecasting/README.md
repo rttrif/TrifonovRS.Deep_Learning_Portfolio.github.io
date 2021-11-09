@@ -1,6 +1,6 @@
 ## PROJECT 33: Short-term electricity load forecasting
 
-> ### TASK: Stady dense neural network for forecasting time series
+> ### TASK: Stady 1D Convolutional Neural Network for forecasting time series
 
 
 ### Project goals and objectives
