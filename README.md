@@ -157,6 +157,18 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 6. Sequential sentence classification: [Project 24: SkimLit](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2024:%20SkimLit)
 
+- [**TF-IDF classifier**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_TF_IDF_classifier.ipynb)
+
+- [**Conv1D with token embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_Conv1D%20_with_token_embeddings.ipynb)
+
+- [**Feature extraction with pretrained token embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_FE_%20with_pretrained_token_embeddings.ipynb)
+
+- [**Conv1D with character embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_Conv1D_with_character_embeddings.ipynb)
+
+- [**Combining pretrained token embeddings + character embeddings (hybrid embedding layer)**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_Combine_TokEmb_CharEmb.ipynb)
+
+- [**Transfer Learning with pretrained token embeddings + character embeddings + positional embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_TL_with_TE_CE_PE.ipynb)
+
 ---
 ---
 
