@@ -1,4 +1,4 @@
-# Deep Learning Portfolio
+# DEEP LEARNING PORTFOLIO
 
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
