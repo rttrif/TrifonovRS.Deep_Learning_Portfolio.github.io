@@ -168,7 +168,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 3. 1D Convolutional Neural Network: [Project 33: Short-term electricity load forecasting](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2033:%20Short-term%20electricity%20load%20forecasting)
 
-#### 4. Long short-term memory: LSTM:[Project 34: Amazon Stock Price 1997 to 2020](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2034:%20Amazon%20Stock%20Price%201997%20to%202020)
+#### 4. Long short-term memory: LSTM: [Project 34: Amazon Stock Price 1997 to 2020](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2034:%20Amazon%20Stock%20Price%201997%20to%202020)
 
 #### 5. N-BEATS: Neural basis expansion analysis
 
