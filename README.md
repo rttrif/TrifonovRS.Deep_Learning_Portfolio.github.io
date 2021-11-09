@@ -3,7 +3,7 @@
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
 ---
-## 👨‍🎓 MY CERTIFICATES
+## 👨‍🎓 MY CERTIFICATES IN THE FIELD OF DEEP LEARNING
 
 [**[GeekBrains] Certificate of professional retraining under the program 
 "Geek University Faculty of Artificial Intelligence"**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Certificates/Trifonov%20Ruslan.pdf)
