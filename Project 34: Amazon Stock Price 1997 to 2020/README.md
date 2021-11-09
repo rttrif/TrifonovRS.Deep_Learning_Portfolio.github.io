@@ -38,7 +38,7 @@ Time series forecasting for the Amazon Stock Prices. Explore the Data.
 
 ### Results
 
-1. [ ] [**LSTM model**]()
+1. [x] [**LSTM model**]()
 
 
 ### References
