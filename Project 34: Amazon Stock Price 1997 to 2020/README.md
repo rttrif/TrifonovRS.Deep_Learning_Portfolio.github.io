@@ -1,13 +1,13 @@
 ## PROJECT 34: Amazon Stock Price 1997 to 2020
 
-> ### TASK: Stady Long short-term memory for forecasting time series
+> ### TASK: Stady Long short-term memory network for forecasting time series
 
 
 ### Project goals and objectives
 
 #### Project goal
 
-- Studying **LSTN for forecasting time series**
+- Studying **LSTM for forecasting time series**
 
 #### Project objectives
 
