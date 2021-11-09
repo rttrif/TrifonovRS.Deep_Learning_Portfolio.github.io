@@ -39,7 +39,7 @@ These 14 pairs of raining/testing datasets are selected according to these testi
 
 ### Results
 
-1. [ ] [**1D CNN model**]()
+1. [x] [**1D CNN model**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2033:%20Short-term%20electricity%20load%20forecasting/1D_CNN_model.ipynb)
 
 
 ### References
