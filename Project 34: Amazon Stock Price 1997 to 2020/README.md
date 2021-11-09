@@ -38,7 +38,7 @@ Time series forecasting for the Amazon Stock Prices. Explore the Data.
 
 ### Results
 
-1. [x] [**LSTM model**]()
+1. [x] [**LSTM model**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2034:%20Amazon%20Stock%20Price%201997%20to%202020/LSTM_model.ipynb)
 
 
 ### References
