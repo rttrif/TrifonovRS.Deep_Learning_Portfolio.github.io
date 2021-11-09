@@ -1,4 +1,4 @@
-## PROJECT 34: Bitcoin price forecasting
+## PROJECT 35: Bitcoin price forecasting
 
 > ### TASK: Stady Neural basis expansion analysis for interpretable time series forecasting
 
