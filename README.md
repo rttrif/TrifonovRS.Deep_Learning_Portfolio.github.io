@@ -166,7 +166,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 
 #### 2. Dense neural network: [Project 32: Population Time Series Data](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2032:%20Population%20Time%20Series%20Data)
 
-#### 3. 1D Convolutional Neural Network
+#### 3. 1D Convolutional Neural Network: [Project 33: Short-term electricity load forecasting](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2033:%20Short-term%20electricity%20load%20forecasting)
 
 #### 4. Long short-term memory: LSTM 
 
