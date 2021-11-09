@@ -27,11 +27,11 @@ PubMed 200k RCT is new dataset based on PubMed for sequential sentence classific
 ### Results
 
 1. [x] [**TF-IDF classifier**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_TF_IDF_classifier.ipynb)
-2. [x] [**Conv1D with token embeddings**]()
-3. [x] [**Feature extraction with pretrained token embeddings**]()
-4. [x] [**Conv1D with character embeddings**]()
-5. [x] [**Combining pretrained token embeddings + character embeddings (hybrid embedding layer)**]()
-6. [x] [**Transfer Learning with pretrained token embeddings + character embeddings + positional embeddings**]()
+2. [x] [**Conv1D with token embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_Conv1D%20_with_token_embeddings.ipynb)
+3. [x] [**Feature extraction with pretrained token embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_FE_%20with_pretrained_token_embeddings.ipynb)
+4. [x] [**Conv1D with character embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_Conv1D_with_character_embeddings.ipynb)
+5. [x] [**Combining pretrained token embeddings + character embeddings (hybrid embedding layer)**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_Combine_TokEmb_CharEmb.ipynb)
+6. [x] [**Transfer Learning with pretrained token embeddings + character embeddings + positional embeddings**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2024:%20SkimLit/SkimLit_TL_with_TE_CE_PE.ipynb)
 
 
 
