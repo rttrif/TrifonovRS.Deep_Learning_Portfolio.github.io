@@ -32,6 +32,8 @@ Bitcoin and other cryptocurrencies are like the email of the financial world. Th
 ### Results
 
 1. [ ] [**N-BEATS**]()
+2. [ ] [**LSTM**]()
+3. [ ] [**1DConv**]()
 
 
 ### References
