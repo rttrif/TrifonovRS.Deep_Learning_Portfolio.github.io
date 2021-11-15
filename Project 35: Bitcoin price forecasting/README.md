@@ -13,6 +13,8 @@
 
 1. Explore and prepare data 
 2. Building N-BEATS model
+3. Building LSTM model
+4. Building 1DConv model
 
 ### Dataset
 
