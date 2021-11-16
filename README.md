@@ -72,7 +72,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 #### 5. Mask R-CNN: [Project 15: Car segmentation](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2015:%20Car%20segmentation)
 
 
-### OBJECT DETECTION
+### OBJECT DETECTION - _in process..._
 ----
 
 #### 1. R-CNN: Region-based Convolutional Neural Networks 
@@ -105,7 +105,7 @@ This portfolio was created in preparation for certification for the TensorFlow D
 - **Pre-trained:** [**Yolo v3**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2018:%20YOLOv3%20with%20Darknet%20Pre-trained%20Weights/Yolo_v3_FT.py)
 
 
-### OPENCV LIBRARY
+### OPENCV LIBRARY - _in process..._
 ---
 <p align="center">
   <img height="400" src="https://udemy-certificate.s3.amazonaws.com/image/UC-92ac279f-b340-4fae-a8a4-092464ce0b11.jpg" alt="Hands-On Computer Vision with OpenCV 4, Keras & TensorFlow 2">
