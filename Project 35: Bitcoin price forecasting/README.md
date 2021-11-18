@@ -33,7 +33,7 @@ Bitcoin and other cryptocurrencies are like the email of the financial world. Th
 
 ### Results
 
-1. [ ] [**N-BEATS**]()
+1. [x] [**N-BEATS**]()
 2. [x] [**LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2035:%20Bitcoin%20price%20forecasting/LSTM_model.ipynb)
 3. [x] [**1DConv**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2035:%20Bitcoin%20price%20forecasting/1DConv_model.ipynb)
 
