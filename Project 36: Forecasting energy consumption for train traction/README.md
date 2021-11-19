@@ -30,9 +30,9 @@
 
 #### Project objectives
 
-1. Exploratory data analysis
-2. Naïve forecasting
-3. N-BEATS
+1. Exploratory data analysis [x]
+2. Naïve forecasting [x]
+3. N-BEATS [x]
 4. 1D Conv VGG-like architecture
 5. RNN
 6. LSTM
