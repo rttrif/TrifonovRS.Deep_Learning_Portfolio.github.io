@@ -63,8 +63,8 @@ They will represent the hourly energy consumption in the period from 2016 to 202
 
 ### Results
 
-1. [ ] [**N-BEATS**]()
-2.
+1. [x] [**N-BEATS**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/N_BEATS(FCN).ipynb)
+2. [ ] [**1D CNN**]
 
 
 ### References
