@@ -10,7 +10,7 @@
 - Perform exploratory data analysis
 - **Naïve** forecasting methods
 - Apply **N-BEATS** for forecasting power consumption for train traction
-- Apply **Convolutional Networks and VGG-like architecture**
+- Apply **Convolutional Networks**
 - Explore different architectures of **recurrent neural networks**
   - RNN
   - LSTM
@@ -33,7 +33,7 @@
 1. Exploratory data analysis [x]
 2. Naïve forecasting [x]
 3. N-BEATS [x]
-4. 1D Conv VGG-like architecture
+4. 1D CNN [x]
 5. RNN
 6. LSTM
 7. GRU
@@ -64,7 +64,7 @@ They will represent the hourly energy consumption in the period from 2016 to 202
 ### Results
 
 1. [x] [**N-BEATS**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/N_BEATS(FCN).ipynb)
-2. [ ] [**1D CNN**]
+2. [x] [**1D CNN**]()
 
 
 ### References
