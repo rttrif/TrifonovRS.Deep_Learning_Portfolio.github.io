@@ -2,6 +2,10 @@
 
 This portfolio was created in preparation for certification for the TensorFlow Developer
 
+<p align="center">
+  <img height="400" src="https://www.credential.net/8c93cd7a-24cd-4ebc-9db5-e793066742d6#gs.hm422p" alt="TensorFlow Developer Certificate">
+</p>
+
 ---
 ## 👨‍🎓 MY CERTIFICATES IN THE FIELD OF DEEP LEARNING
 
