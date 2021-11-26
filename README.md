@@ -9,6 +9,8 @@ This portfolio was created in preparation for certification for the TensorFlow D
 ---
 ## 👨‍🎓 MY CERTIFICATES IN THE FIELD OF DEEP LEARNING
 
+## [TensorFlow Developer Certificate](https://www.credential.net/8c93cd7a-24cd-4ebc-9db5-e793066742d6#gs.hm422p)
+
 [**[GeekBrains] Certificate of professional retraining under the program 
 "Geek University Faculty of Artificial Intelligence"**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Certificates/Trifonov%20Ruslan.pdf)
 
