@@ -1,6 +1,6 @@
 # DEEP LEARNING PORTFOLIO
 
-This portfolio was created in preparation for certification for the TensorFlow Developer
+This portfolio was created in preparation for certification the TensorFlow Developer
 
 <p align="center">
   <img height="400" src="https://user-images.githubusercontent.com/55245756/143516119-42312b5c-61af-4d51-b5eb-0d8bf3c81aab.png" alt="TensorFlow Developer Certificate">
