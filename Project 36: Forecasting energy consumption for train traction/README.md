@@ -14,6 +14,7 @@
 - Explore different architectures of **recurrent neural networks**
   - RNN
   - LSTM
+  - Bidirectional LSTM
   - GRU
 - Explore different **statistical approaches**
   - Autoregression (AR)
@@ -34,20 +35,21 @@
 2. Naïve forecasting [x]
 3. N-BEATS [x]
 4. 1D CNN [x]
-5. RNN
-6. LSTM
-7. GRU
-8. AR
-9. MA
-10. ARMA
-11. ARIMA
-12. SARIMA
-13. SARIMAX
-14. VAR
-15. VARMA
-16. VARMAX
-17. SES
-18. HWES
+5. RNN [x]
+6. LSTM [x]
+7. Bidirectional LSTM [x]
+8. GRU [x]
+9. AR
+10. MA
+11. ARMA
+12. ARIMA
+13. SARIMA
+14. SARIMAX
+15. VAR
+16. VARMA
+17. VARMAX
+18. SES
+19. HWES
 
 ### Dataset
 
@@ -67,6 +69,9 @@ They will represent the hourly energy consumption in the period from 2016 to 202
 2. [x] [**N-BEATS**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/N_BEATS(FCN).ipynb)
 3. [x] [**1D CNN**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/1D_CNN.ipynb)
 4. [x] [**RNN**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/RNN.ipynb)
+5. [x] [**LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/LSTM.ipynb)
+6. [x] [**Bidirectional LSTM**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/Bidirectional_LSTM.ipynb)
+7. [x] [**GRU**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/GRU.ipynb)
 
 
 ### References
