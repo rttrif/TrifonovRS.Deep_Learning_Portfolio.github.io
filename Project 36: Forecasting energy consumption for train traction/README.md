@@ -66,6 +66,7 @@ They will represent the hourly energy consumption in the period from 2016 to 202
 1. [x] [**Exploratory data analysis**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Exploratory_data_analysis.ipynb)
 2. [x] [**N-BEATS**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/N_BEATS(FCN).ipynb)
 3. [x] [**1D CNN**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/1D_CNN.ipynb)
+4. [x] [**RNN**](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/blob/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction/Neural%20network%20models/RNN.ipynb)
 
 
 ### References
