@@ -150,7 +150,9 @@ This portfolio was created in preparation for certification the TensorFlow Devel
 
 #### 5. N-BEATS: Neural basis expansion analysis: [Project 35: Bitcoin price forecasting](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2035:%20Bitcoin%20price%20forecasting)
 
-#### 6. [Project 36: Forecasting energy consumption for train traction](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction)
+#### 6. [Project 36: Forecasting energy consumption for train traction (univariate time series)](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction)
+
+#### 7. [Project 37: Forecasting energy consumption for train traction (multivariate time series)]()
 
 ---
 ---
