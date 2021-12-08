@@ -152,7 +152,7 @@ This portfolio was created in preparation for certification the TensorFlow Devel
 
 #### 6. [Project 36: Forecasting energy consumption for train traction (univariate time series)](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2036:%20Forecasting%20energy%20consumption%20for%20train%20traction)
 
-#### 7. [Project 37: Forecasting energy consumption for train traction (multivariate time series)]()
+#### 7. [Project 37: Forecasting energy consumption for train traction (multivariate time series)](https://github.com/rttrif/TrifonovRS.Deep_Learning_Portfolio.github.io/tree/main/Project%2037:%20Forecasting%20energy%20consumption%20for%20train%20traction%20PART%202)
 
 ---
 ---
