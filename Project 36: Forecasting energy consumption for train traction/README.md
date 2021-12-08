@@ -1,4 +1,4 @@
-## PROJECT 36: Forecasting energy consumption for train traction
+## PROJECT 36: Forecasting energy consumption for train traction (univariate time series)
 
 > ### TASK: To study various modern approaches and models to forecasting power consumption for train traction
 
