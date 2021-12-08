@@ -32,13 +32,13 @@
 #### Project objectives
 
 1. Exploratory data analysis [x]
-2. Naïve forecasting [x]
-3. N-BEATS [x]
-4. 1D CNN [x]
-5. RNN [x]
-6. LSTM [x]
-7. Bidirectional LSTM [x]
-8. GRU [x]
+2. Naïve forecasting 
+3. N-BEATS 
+4. 1D CNN 
+5. RNN 
+6. LSTM
+7. Bidirectional LSTM 
+8. GRU
 9. AR
 10. MA
 11. ARMA
